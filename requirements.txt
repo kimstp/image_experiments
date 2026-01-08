@@ -1,0 +1,7 @@
+scikit-image
+matplotlib
+tifffile
+imagecodecs
+imageio
+numpy
+zxing-cpp
